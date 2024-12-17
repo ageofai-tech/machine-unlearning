@@ -1,60 +1,15 @@
+Unlearning the breakthrough ai, was modelled by celiobjr, a 3rd UG student. A 2k follower account’s tweet sparked massive interest in the tech circuits and clocked 3.5mn impressions before the account & GIT got taken down by bigger players, who possibly felt intimidated with the breakthrough. 
 
-# **Machine Unlearning: A Neural Network Learning Backwards** 🧠 
+This model decentralises singularity and currently - a small team of 3, with AI background from FANG are hard at work, enabling this to life.
 
-## What just happened here?!
-This project is my humble contribution to the world of deep learning: a neural network that, for unknown reasons, **learns in reverse**. It starts with **great accuracy** and gradually forgets everything it once knew.
+A Solona project is affiliated with the coin & was endorsed by the dev, highlighting it in good faith and to prevent any further abuse.
 
-Essentially, I accidentally invented **Machine Unlearning**. A true milestone in the history of Artificial Intelligence (or lack thereof).
+Name: Machine Unlearning
 
----
+Ticker: $unlearning
 
-## 📸 **The Code in Action**
-Here's how well my neural network "learns":
-```
-Epoch 1, Accuracy: 86.82%
-Epoch 2, Accuracy: 87.07%
-...
-Epoch 20, Accuracy: 57.97%
-```
-Yes, you read that right. Each epoch makes things worse. The poor model started out strong and ended up begging for help. 🤖💔
+ca: DS1siYy2VYXGoeSJtRFCUNN3KQzfoecwPtZ2L4MVpump
 
----
+Website, roadmap and other updates will follow. 
 
-## ⚙️ **How to Run This Project**
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/machine-unlearning.git
-   cd machine-unlearning
-   ```
-
-2. Compile the C code (if you're feeling brave):
-   ```bash
-   gcc -O3 -march=native -ffast-math -o nn nn.c -lm
-   ```
-
-3. Run it and witness the magic of unlearning:
-   ```bash
-   ./nn
-   ```
-
-4. Sit back and enjoy watching your model's performance decline.
-
----
-
-## 📚 **How It Works?**
-
-Honestly? Even I’m not quite sure. 
-
----
-
-## **Why Does This Exist?**
-
-Because making mistakes is human, but making a neural network unlearn is a **rare talent**.
-
----
-
-## 🔗 **Based On**
-
-This project is **based on** the amazing work at [miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) by [Konrad Gajdus](https://github.com/konrad-gajdus). I just accidentally broke it.
-
+Much gratitude and love for the dev!
